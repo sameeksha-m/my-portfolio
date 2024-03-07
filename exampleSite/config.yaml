@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Sameeksha Muralidhar Gupta"
 theme: hugo-profile
 
 outputs:
@@ -169,15 +169,24 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "Data Analyst"
+        company: "George Mason University - Auxilary Services and Operations"
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+        date: "June 2023 - present"
         featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          # enable: false
+          # name: "View the project"
+          # url: "https://example.com"
+        info:
+          enable: false
+        # content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: |
+          I am currently working as a data analyst Intern at my University's Auxilary Services and Operations Office (https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.  
+
+          - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
+          - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
+          - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
+          - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
 
       - job: "Software Developer"
         company: "Amazon"
