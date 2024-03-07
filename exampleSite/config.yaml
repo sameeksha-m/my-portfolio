@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sameeksha."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I build dashboards, ML models to carve out insights from raw data on the web"
+    content: "A passionate data enthusiast. I tend to make use of any kinds of data on the web to create meaningful insights that looks great, feels fantastic, and helps people understand data better."
     image: /images/hero.svg
     bottomImage:
       enable: true
