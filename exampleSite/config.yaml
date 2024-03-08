@@ -213,6 +213,29 @@ params:
           - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
           - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
 
+      - job: "Data Analyst"
+        company: "GMU"
+        companyUrl: "https://example.com"
+        date: "June 2023 - Present"
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        info:
+          enable: false
+          content: I worked as a software developer for more than one year in Amazon.
+        content: |
+          I am currently working as a Data Analyst at the Auxiliary Services and Operations Office of my university, in Fairfax, VA. My current project is aimed at developing a comprehensive analytical tool to assist in optimizing financial budgeting for the university. 
+
+          Furthermore, this project is designed to enhance the diversity options available to students on campus, thereby significantly improving student satisfaction levels. 
+
+          Through meticulous data analysis and strategic planning, my contribution is focused on delivering actionable insights that will support the university in making informed decisions, ultimately benefiting the entire University.
+
+          - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
+          - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
+          - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
+          - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
+          extra
+
       - job: "Finance Data Analyst"
         company: "Infosys Ltd."
         companyUrl: "https://example.com"
