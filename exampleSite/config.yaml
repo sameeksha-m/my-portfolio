@@ -286,6 +286,11 @@ params:
         date: "2022 - 2024"
         GPA: "3.74 out of 4.0"
         content: |-
+
+          Courses and skills learnt-
+          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          - Face mask detection using a single convolutional neural network.
+
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
@@ -312,7 +317,7 @@ params:
         #   enable: true
         #   name: "My academic record"
         #   url: "https://example.com"
-        
+
       # - title: "High School"
       #   school:
       #     name: "Thomas Jefferson High School for Science and Technology."
