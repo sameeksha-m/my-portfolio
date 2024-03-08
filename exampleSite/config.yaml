@@ -197,10 +197,10 @@ params:
         companyUrl: "https://example.com"
         date: "June 2023 - Present"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
           I am currently working as a Data Analyst at the Auxiliary Services and Operations Office of my university, in Fairfax, VA. My current project is aimed at developing a comprehensive analytical tool to assist in optimizing financial budgeting for the university. 
