@@ -184,12 +184,12 @@ params:
                   Furthermore, this project is designed to enhance the diversity options available to students on campus, thereby significantly improving student satisfaction levels. 
 
                   Through meticulous data analysis and strategic planning, my contribution is focused on delivering actionable insights that will support the university in making informed decisions, ultimately benefiting the entire University."
-        content: |
+        # content: |
 
-          - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
-          - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
-          - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
-          - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
+        #   - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
+        #   - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
+        #   - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
+        #   - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
 
       - job: "Data Analyst"
         company: "George Mason University"
@@ -233,18 +233,18 @@ params:
           - Led a conference for 200+ individuals, managing queries and documenting discussions for effective follow-up actions.
           - Improved project data management and communication efficacy by 50% through proficient use of Confluence and Jira.
 
-      # - job: "UI/UX Designer"
-      #   company: "Netflix"
-      #   companyUrl: "https://example.com"
-      #   date: "June 2017 - Nov 2019"
-      #   featuredLink:
-      #     enable: true
-      #     url: "https://example.com"
-      #   content: |
-      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      - job: "UI/UX Designer"
+        company: "Netflix"
+        companyUrl: "https://example.com"
+        date: "June 2017 - Nov 2019"
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+        content: |
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-      #     - Lead backend developer for a product.
-      #     - Created a frontend design for a product.
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
 
       # - job: "Product Designer"
       #   company: "Google"
