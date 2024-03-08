@@ -228,11 +228,11 @@ params:
 
           My responsibilities included actively engaging with user feedback to identify and resolve any issues, thereby ensuring the application's ease of use and reliability. Through a diligent focus on addressing user needs and implementing strategic enhancements, the project successfully provided a seamless tax management experience, significantly benefiting citizens across India and promoting a positive engagement with the platform.
 
-          - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
-          - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
-          - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
-          - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
-          extra
+          - Analyzed transaction data to identify errors, recommended new policies that effectively increased compliance by 55%
+          - Implemented multivariate and A/B testing in data analysis, identifying trends increasing profits by 6.5%, totaling to $77.8M.
+          - Automated KPI and ad-hoc reports in Excel and Tableau, saving 13 hours weekly in manual reporting tasks.
+          - Led a conference for 200+ individuals, managing queries and documenting discussions for effective follow-up actions.
+          - Improved project data management and communication efficacy by 50% through proficient use of Confluence and Jira.
 
       - job: "Finance Data Analyst"
         company: "Infosys Ltd."
