@@ -121,7 +121,7 @@ params:
     title: "Sameeksha"
     subtitle: "I build dashboards, ML models to carve out insights from raw data on the web"
     content: "A passionate data enthusiast. I tend to make use of any kinds of data on the web to create meaningful insights that looks great, feels fantastic, and helps people understand data better."
-    image: /images/hero.svg
+    image: /images/sam.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
