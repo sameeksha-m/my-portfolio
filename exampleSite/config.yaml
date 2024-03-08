@@ -219,9 +219,9 @@ params:
         companyUrl: "https://example.com"
         date: "Oct 2020 - Jul 2022"
         info:
-          enable: false
+          enable: true
         featuredLink:
-          enable: false
+          enable: true
           url: "https://example.com"
         content: |
           I served in a dual role as a Finance Data Analyst and Frontend Developer at Infosys Ltd., located in Bangalore, India, for approximately 2 years. During my tenure, I played a key role in the development and refinement of a crucial user-centric project designed to streamline tax management for Indian citizens. This project markedly enhanced user satisfaction by delivering an intuitive and accessible platform suitable for users of diverse age groups.
