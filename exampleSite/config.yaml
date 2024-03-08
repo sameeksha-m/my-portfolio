@@ -24,16 +24,16 @@ markup:
 
 Menus:
   main:
-    # - identifier: blog
-    #   name: Blog
-    #   title: Blog posts
-    #   url: /blogs
-    #   weight: 1
-    # - identifier: gallery
-    #   name: Gallery
-    #   title: Blog posts
-    #   url: /gallery
-    #   weight: 2
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+    - identifier: gallery
+      name: Gallery
+      title: Blog posts
+      url: /gallery
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -413,12 +413,12 @@ params:
     #   messageCaption: "Enter your message here"
 
   footer:
-    # recentPosts:
-    #   path: "blogs"
-    #   count: 3
-    #   title: Recent Posts
-    #   enable: true
-    #   disableFeaturedImage: false
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
       linkedin: https://linkedin.com
