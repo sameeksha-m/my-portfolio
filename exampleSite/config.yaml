@@ -184,13 +184,12 @@ params:
                   Furthermore, this project is designed to enhance the diversity options available to students on campus, thereby significantly improving student satisfaction levels. 
 
                   Through meticulous data analysis and strategic planning, my contribution is focused on delivering actionable insights that will support the university in making informed decisions, ultimately benefiting the entire University."
-        # content: |
-        #   I am currently working as a data analyst Intern at my University's Auxilary Services and Operations Office (https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.  
+        content: |
 
-        #   - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
-        #   - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
-        #   - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
-        #   - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
+          - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
+          - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
+          - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
+          - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
 
       - job: "Data Analyst"
         company: "George Mason University"
