@@ -304,7 +304,7 @@ params:
           name: "Visvesvaraya Technological University"
           url: "https://example.org"
         date: "2016 - 2020"
-        GPA: "3.9 out of 5.0"
+        # GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
@@ -404,7 +404,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: smurali6@gmu.edu
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
