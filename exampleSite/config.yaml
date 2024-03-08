@@ -134,9 +134,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+          url: https://github.com/sameeksha-m
+        # - icon: fab fa-twitter
+        #   url: https://example.com
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -423,9 +423,9 @@ params:
     socialNetworks:
       github: https://github.com/sameeksha-m
       linkedin: https://linkedin.com/in/sameeksha-m-gupta
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      # twitter: https://twitter.com
+      # instagram: https://instagram.com
+      # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
