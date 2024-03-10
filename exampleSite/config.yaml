@@ -139,7 +139,7 @@ params:
         #   url: https://example.com
       customIcons:
         - icon: /tableaulogo.png
-          url: "https://example.com"
+          url: "https://public.tableau.com/app/profile/sameeksha.muralidhar.gupta/vizzes"
 
   # About
   about:
@@ -475,6 +475,7 @@ params:
     socialNetworks:
       github: https://github.com/sameeksha-m
       linkedin: https://linkedin.com/in/sameeksha-m-gupta
+      tableau: https://public.tableau.com/app/profile/sameeksha.muralidhar.gupta/vizzes
       # twitter: https://twitter.com
       # instagram: https://instagram.com
       # facebook: https://facebook.com
