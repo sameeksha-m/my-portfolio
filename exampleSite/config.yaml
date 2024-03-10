@@ -306,13 +306,15 @@ params:
         date: "2016 - 2020"
         # GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          I Published a paper in IJERT in the field on Robotics, IoT and Analytics.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Extracurricular Activities:
+            - Contributed to the organization and marketing of inter-collegiate hackathons and annual cultural events for 2 consecutive years.
+            - Played a key role at Under25 - India largest youth festival, managing over 10,000 attendees and contributing to the marketing and production teams.
+            - Worked as a transcriber for over 5,000 underprivileged children and adults with Cleft Clip in partnership with Operation Smile Inc.
+            - Participated in various cultural events and quizzes actively.
+            - Volunteered for 4+ years at an NGO, tutoring mathematics, Computer science and Art to children from grades 4 to 8.
+
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
