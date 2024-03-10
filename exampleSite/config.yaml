@@ -293,9 +293,7 @@ params:
           Skills:
           - Data Cleaning, Data Transformation, Data Mining, Data warehousing, Building and prediction using ML, NLP, Data Visualization using Tableau, PowerBI, Using Queries to extract meaningful data 
             
-          # - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
+          Extracurricular Activities:
             - Participated in a Datathon in the state of Virginia 
             - Actively particpated in many events and activities 
 
