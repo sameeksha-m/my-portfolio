@@ -24,11 +24,11 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
+    # - identifier: blog
+    #   name: Blog
+    #   title: Blog posts
+    #   url: /blogs
+    #   weight: 1
     # - identifier: gallery
     #   name: Gallery
     #   title: Blog posts
@@ -433,17 +433,17 @@ params:
       # instagram: https://instagram.com
       # facebook: https://facebook.com
 
-  # List pages like blogs and posts
-  listPages:
-    disableFeaturedImage: false
+  # # List pages like blogs and posts
+  # listPages:
+  #   disableFeaturedImage: false
 
-  # Single pages like blog and post
-  singlePages:
-    readTime:
-      enable: true
-      content: "min read"
-    scrollprogress:
-      enable: true
+  # # Single pages like blog and post
+  # singlePages:
+  #   readTime:
+  #     enable: true
+  #     content: "min read"
+  #   scrollprogress:
+  #     enable: true
 
   # For translations
   terms:
