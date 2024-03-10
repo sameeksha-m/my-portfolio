@@ -381,7 +381,7 @@ params:
 
       - title: Analysis of Work Orders at University
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/workorderlogo.jpg
+        image: /images/projects/workorderlogo.png
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
