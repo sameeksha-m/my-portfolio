@@ -433,7 +433,7 @@ params:
           link: https://django-converter.herokuapp.com
         badges:
           - "Python"
-          # - "Bootstrap"
+          - "NLP"
         links:
           - icon: fab fa-github
             url: https://github.com/sameeksha-m
@@ -445,9 +445,9 @@ params:
           name: Demo
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          # - "Bootstrap"
+          # - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/sameeksha-m
