@@ -316,7 +316,7 @@ params:
           Extracurricular Activities:
             - Contributed to the organization and marketing of inter-collegiate hackathons and annual cultural events for 2 consecutive years.
             - Played a key role at Under25 - India largest youth festival, managing over 10,000 attendees and contributing to the marketing and production teams.
-            - Worked as a transcriber for over 5,000 underprivileged children and adults with Cleft Clip in partnership with Operation Smile Inc.
+            - Worked as a transcriber for over 3,000 underprivileged children and adults with Cleft Clip in partnership with Operation Smile Inc.
             - Participated in various cultural events and quizzes actively.
             - Volunteered for 4+ years at an NGO, tutoring mathematics, Computers, and Art to children from grades 4 to 8.
 
@@ -336,7 +336,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
