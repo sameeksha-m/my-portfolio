@@ -287,15 +287,17 @@ params:
         GPA: "3.74 out of 4.0"
         content: |-
 
-          Courses:
-          - Big Data Analytics, Principles of Data Mining, Data Mining for Business Analytics, Statistics, Information to Data Visualization, Fraud Analytics and so on.
+          - Working as a Data Analyst Intern where I collaborated with senior management, addressing business challenges and their impact to the university.
+          - Served as a Graduate Teaching Assistant in the Finance Department at GMU, assisting in grading and student queries, enhancing communication skills.
+          - Collaborated with Department of Atmospheric, Oceanic, and Earth Sciences to study 60+ years of Virginia's weather for every county. 
 
-          Skills:
-          - Data Cleaning, Data Transformation, Data Mining, Data warehousing, Building and prediction using ML, NLP, Data Visualization using Tableau, PowerBI, Using Queries to extract meaningful data 
+          Coursework and skills:
+          - Statistics, Big Data Analytics, Database Management, Data Cleaning, Data Transformation, Data Mining, Data Visualization, Predictive modelling using ML, Fraud Analytics.
             
           Extracurricular Activities:
-            - Participated in a Datathon in the state of Virginia 
-            - Actively particpated in many events and activities 
+            - Attended GHC'23 and SWE'23 for engaging in technology discussions, networking, and exploring industry trends.
+            - Showcased analytical and problem-solving skills in the Virginia Datathon.
+            - Actively participated in various diverse cultural, science and technical events and activities.
 
         featuredLink:
           enable: true
