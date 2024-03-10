@@ -363,7 +363,7 @@ params:
     items:
       - title: Virginia Climate Centre Dashboard
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+        image: /images/projects/climate.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
@@ -381,7 +381,7 @@ params:
 
       - title: Analysis of Work Orders at University
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+        image: /images/projects/workorderlogo.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
@@ -396,7 +396,7 @@ params:
 
       - title: Employee Attrition Prediction and Analysis
         content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/employeelogo.png
         featured:
           name: Demo
           link: https://hugo-profile-2.netlify.app
@@ -410,7 +410,7 @@ params:
 
       - title: Health Insurance Amount Prediction
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+        image: /images/projects/healthinsurancelogo.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
@@ -427,7 +427,7 @@ params:
 
       - title: Analysis of Twitch Streamers 
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+        image: /images/projects/twitchlogo.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
@@ -440,7 +440,7 @@ params:
 
       - title: Covid-19 Death Analysis
         content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/covidlogo.jpg
         featured:
           name: Demo
           link: https://hugo-profile-2.netlify.app
