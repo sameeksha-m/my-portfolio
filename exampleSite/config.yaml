@@ -56,7 +56,7 @@ params:
   title: "Sameeksha Muralidhar Gupta"
   description: Passionate about unveiling hidden stories in data
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  # favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -102,7 +102,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Sameeksha Muralidhar Gupta" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
@@ -287,13 +287,18 @@ params:
         GPA: "3.74 out of 4.0"
         content: |-
 
-          Courses and skills learnt-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - Face mask detection using a single convolutional neural network.
+          Courses:
+          - Big Data Analytics, Principles of Data Mining, Data Mining for Business Analytics, Statistics, Information to Data Visualization, Fraud Analytics and so on.
+
+          Skills:
+          - Data Cleaning, Data Transformation, Data Mining, Data warehousing, Building and prediction using ML, NLP, Data Visualization using Tableau, PowerBI, Using Queries to extract meaningful data 
+            
+          # - Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Participated in a Datathon in the state of Virginia 
+            - Actively particpated in many events and activities 
+
         featuredLink:
           enable: true
           name: "My academic record"
@@ -306,14 +311,14 @@ params:
         date: "2016 - 2020"
         # GPA: "3.9 out of 5.0"
         content: |-
-          I Published a paper in IJERT in the field on Robotics, IoT and Analytics.
+          Published a paper in IJERT in the field on Robotics, IoT and Analytics.
 
           Extracurricular Activities:
             - Contributed to the organization and marketing of inter-collegiate hackathons and annual cultural events for 2 consecutive years.
             - Played a key role at Under25 - India largest youth festival, managing over 10,000 attendees and contributing to the marketing and production teams.
             - Worked as a transcriber for over 5,000 underprivileged children and adults with Cleft Clip in partnership with Operation Smile Inc.
             - Participated in various cultural events and quizzes actively.
-            - Volunteered for 4+ years at an NGO, tutoring mathematics, Computer science and Art to children from grades 4 to 8.
+            - Volunteered for 4+ years at an NGO, tutoring mathematics, Computers, and Art to children from grades 4 to 8.
 
         # featuredLink:
         #   enable: true
