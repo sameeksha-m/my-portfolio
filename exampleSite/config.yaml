@@ -138,7 +138,7 @@ params:
         # - icon: fab fa-twitter
         #   url: https://example.com
       customIcons:
-        - icon: /fav.png
+        - icon: /tableaulogo.png
           url: "https://example.com"
 
   # About
