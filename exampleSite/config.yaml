@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hello!! I'm,"
     title: "Sameeksha"
-    subtitle: "I build dashboards, ML models to carve out insights from raw data on the web"
-    content: "A passionate data enthusiast. I tend to make use of any kinds of data on the web to create meaningful insights that looks great, feels fantastic, and helps people understand data better."
+    subtitle: "I craft insightful data narratives using raw data on the web through analytics, machine learning, and visualizations!"
+    content: "Driven by  passion for data, and user experience, I aim to not just to present data, but to transform it into a meaningful narrative that informs and inspires people."
     image: /images/sam.jpeg
     bottomImage:
       enable: true
