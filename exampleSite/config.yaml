@@ -208,12 +208,13 @@ params:
 
           Through meticulous data analysis and strategic planning, my contribution is focused on delivering actionable insights that will support the university in making informed decisions, ultimately benefiting the entire University.
 
-          - Streamlined student data retrieval from the cloud, standardized through ETL processes, and exported to Oracle using Python.
-          - Optimized cleaning and transformation of 500+ CSV files spanning 5 years using Python, reducing processing time by 74%.
-          - Employed pivot tables and VLOOKUP for data analysis, achieving a 25% improvement in data accuracy.
-          - Created PowerBI dashboards and ad-hoc reports using KPIs with DAX and Power Query, boosting productivity by 30%.
+          - Streamlined student data retrieval by 40% from cloud to Oracle using ETL and Python scripts.
+          - Automated cleaning of 3000+ CSVs via Python, slashing processing time 74%, aiding strategic decisions and new ventures.
+          - Utilized Excel's pivot tables, VLOOKUP to analyze 4 years of data, improving accuracy 25% for strategic decisions.
+          - Developed PowerBI dashboards, with DAX, Power Query, ad-hoc reports, enhancing university productivity, budget allocation by 30%.
 
-      - job: "Finance Data Analyst"
+
+      - job: "Financial Data Analyst"
         company: "Infosys Ltd"
         companyUrl: "https://example.com"
         date: "Oct 2020 - Jul 2022"
@@ -228,10 +229,10 @@ params:
 
           My responsibilities included actively engaging with user feedback to identify and resolve any issues, thereby ensuring the application's ease of use and reliability. Through a diligent focus on addressing user needs and implementing strategic enhancements, the project successfully provided a seamless tax management experience, significantly benefiting citizens across India and promoting a positive engagement with the platform.
 
-          - Analyzed transaction data to identify errors, recommended new policies that effectively increased compliance by 55%
-          - Implemented multivariate and A/B testing in data analysis, identifying trends increasing profits by 6.5%, totaling to $77.8M.
+          - Analyzed transaction data to identify errors, recommended new policies that effectively increased compliance by 55%.
+          - Implemented multivariate and A/B testing in data analysis, identifying trends increasing profits by 6.5%, totaling to $7.8M.
           - Automated KPI and ad-hoc reports in Excel and Tableau, saving 13 hours weekly in manual reporting tasks.
-          - Led a conference for 200+ individuals, managing queries and documenting discussions for effective follow-up actions.
+          - Led meetings for 200+ individuals, adeptly addressing queries, and documenting discussions for effective follow-up actions.
           - Improved project data management and communication efficacy by 50% through proficient use of Confluence and Jira.
 
       # - job: "Finance Data Analyst"
