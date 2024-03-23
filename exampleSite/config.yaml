@@ -363,11 +363,11 @@ params:
     # title: "Custom Name"
     items:
       - title: Virginia Climate Centre Dashboard
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+        content: A Tableau dashboard which showcases temperature and precipitation variations over 60 years in Virginia.
         image: /images/projects/climate.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://public.tableau.com/app/profile/sameeksha.muralidhar.gupta/vizzes
         badges:
           - "Python"
           - "AWS"
@@ -376,7 +376,7 @@ params:
           # - icon: fa fa-envelope
           #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/sameeksha-m
+            url: https://github.com/sameekshamgupta/DAEN690
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -391,9 +391,9 @@ params:
           - "Excel"
           - "Oracle"
           - "PowerBI"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/sameeksha-m
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/sameeksha-m
 
       - title: Employee Attrition Prediction and Analysis
         content: A clean and simple Hugo template for personal portfolio and blog.
